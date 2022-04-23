@@ -5,4 +5,6 @@
     <string name="app_select_title">Select app</string>
     <string name="activity_select_title">Select activity</string>
 
+    <string name="search">Search</string>
+    <string name="search_apps">Search apps</string>
 </resources> 
